@@ -4,7 +4,8 @@ import Home from "./Components/Home/Home";
 import NavBar from "./Components/NavBar/NavBar";
 import Reviwe from "./Components/Reviwes/Reviwes";
 import NotFound from './Components/NotFound/NotFound';
-import Dashboard from './Components/Dashboard/Dashboard'
+import Dashboard from './Components/Dashboard/Dashboard';
+import Blogs from './Components/Blogs/Blogs'
 
 function App() {
 
@@ -16,7 +17,7 @@ function App() {
        <Route path='/' element={<Home/>} />
        <Route path='/reviews' element={<Reviwe />} />
        <Route path='/dashboard' element={<Dashboard/>} />
-       <Route path='/blogs'  />
+       <Route path='/blogs' element={<Blogs/>} />
        <Route path='/about'  />
        <Route path='*' element={<NotFound/>} />
       </Routes>

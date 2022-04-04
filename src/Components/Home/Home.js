@@ -7,7 +7,6 @@ const Home = () => {
 
     const [reviews , setReviews] = useCartData([]);
 
-    console.log(reviews);
 
     return (
         <div>
@@ -22,7 +21,7 @@ const Home = () => {
                     <div className='w-1/2 h-fit m-auto bg-red-100 rounded-3xl border-8 border-white '>
 
                         <h1>Buyer Review</h1>
-                        <div className='flex'>
+                        <div className='flex m-2 gap-2'>
                             {
                                 (reviews.slice(0,3)).map(review => <SingleReviwe key={review.id} data={review} />)
                             }

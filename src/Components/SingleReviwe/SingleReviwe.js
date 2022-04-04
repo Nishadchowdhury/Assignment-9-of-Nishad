@@ -4,13 +4,11 @@ import { faStar } from '@fortawesome/free-solid-svg-icons'
 
 const SingleReviwe = (props) => {
 
-    console.log(props);
     const { name, picture, raiting, about } = props.data;
 
-    console.log(name);
     return (
 
-        <div className='bg-white w-64 h-64 m-2 rounded-xl text-left p-1' >
+        <div className='bg-white w-64 h-64  rounded-xl text-left p-1 m-auto block' >
             <div className=' w-full overflow-hidden'>
             <img className='h-20 w-20 rounded-full m-auto block' src={picture} alt="" />
             </div>

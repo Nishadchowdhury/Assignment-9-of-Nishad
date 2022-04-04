@@ -33,7 +33,9 @@ const Home = () => {
 
                     </div>
                 </div>
-                <span>Mac Studio is an entirely new Mac desktop. It packs outrageous performance, extensive connectivity, and new capabilities into an unbelievably compact form, putting everything you need within easy reach and transforming any space into a studio. <button className='bg-gray-400 p-2 rounded-lg text-white font-medium' target="_blank" to='https://www.apple.com/mac-studio/' >See More</button> </span>
+                <span>Mac Studio is an entirely new Mac desktop. It packs outrageous performance, extensive connectivity, and new capabilities into an unbelievably compact form, putting everything you need within easy reach and transforming any space into a studio. <a href="https://www.apple.com/mac-studio/"  target="_blank">
+                <button className='bg-gray-400 p-2 rounded-lg text-white font-medium'   >See More</button> 
+                    </a></span>
             </div>
         </div>
     );

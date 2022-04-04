@@ -1,0 +1,44 @@
+[
+  {
+    "id": "624a71fb279c6a8d5cb87b91",
+    "name": "Karen Mcdaniel",
+    "raiting": 5,
+    "picture": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "about": "Apple's high-end Mac Studio brings phenomenal power in a very small enclosure. It is very clearly not for everybody."
+  },
+  {
+    "id": "624a71fb1b18e155a8d0dd3c",
+    "name": "Tanya Small",
+    "raiting": 5,
+    "picture": "https://images.unsplash.com/photo-1592334873219-42ca023e48ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=561&q=80",
+    "about": " powerful compact desktop for content-crunching professionals ."
+  },
+  {
+    "id": "624a71fb2b6c6cdcd246c3cf",
+    "name": "Marisol Hyde",
+    "raiting": 4,
+    "picture": "https://images.unsplash.com/photo-1601234699404-4867fa71f87f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=565&q=80",
+    "about": "Mac Studio can deliver more power than almost any other computer on the market ."
+  },
+  {
+    "id": "624a71fb9f15a70ff4fed562",
+    "name": "Daniels Dean",
+    "raiting": 3,
+    "picture": "https://images.unsplash.com/photo-1562045726-c54c4d58b602?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "about": "The Mac Studio has some benefits that are obvious even before you turn it on: It doesn't take up much floor or desk space; it's easy to move ."
+  },
+  {
+    "id": "624a71fb4f23eb7d456cff4f",
+    "name": "Sanchez Edwards",
+    "raiting": 4,
+    "picture": "https://images.unsplash.com/photo-1607326387799-94d161427e41?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=585&q=80",
+    "about": "Excellent performance. Easy setup. Relatively compact. Plenty of ports. Up to 8 terabytes of storage (and plenty of other upgrade options)."
+  },
+  {
+    "id": "624a71fb9fac5928ad374565",
+    "name": "Wade Franklin",
+    "raiting": 3,
+    "picture": "https://images.unsplash.com/photo-1515175704145-8a06ffce6b77?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=896&q=80",
+    "about": "The Mac Studio is a nice-looking, compact computer. Someone mentioned to me that it looks like two Apple TVs stacked on top of each other ."
+  }
+]

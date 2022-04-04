@@ -1,7 +1,7 @@
 # About my Project
 ### Project Name:- Your Mac Studio 
 
-### Live link :- https/:ok.com
+### Live link :- https://nishads-assignment-9.netlify.app
 
 - In this project i user can know about Apple mac studio . 
 - In home page , i add some Detail of the specific product and the button to know more .

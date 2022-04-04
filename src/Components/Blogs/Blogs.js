@@ -19,7 +19,7 @@ const Blogs = () => {
                 like <strong> Nav</strong> for Navigation's part of any site , <strong>Time</strong> to place data about time ,<br />
                 it's improve Human readability about code . That's why developers can understand code easily . <br />
                 and Developers can easily guess the type of data stored in element . <br />
-                html provide lots of Semantic tags to make the code Readable . 
+                html provide lots of Semantic tags to make the code Readable .
                  </p>
 
             </div>
